@@ -8,4 +8,4 @@
 3.    Run these microservices independently on different ports.
 4.  b.) Frontend: Start the register.html page using live server.
 5.  c.) Blacboard: jeevan-blackboard 
-6.    
+    
