@@ -3,6 +3,7 @@
 # Technologies used:
   Spring Boot, Mysql, VsCode, HTML, CSS, JavaScript, Postman, Live server extension
 
+# Description
 1. Two Architecture patterns:
 2.  a.) Microservice: recommendation, notification, jeevan-blood-bank-rest-api
 3.    Run these microservices independently on different ports.
